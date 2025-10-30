@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+supabase
+python-decouple
+fastapi-cors
+beautifulsoup4
+lxml
+google-generativeai
+requests
+selenium
+webdriver-manager
+google-cloud-vision
+python-multipart

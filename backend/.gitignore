@@ -1,0 +1,5 @@
+# Ignore Python virtual environment and environment files
+.env*
+/venv
+/__pycache__/
+gcloud-credentials.json
